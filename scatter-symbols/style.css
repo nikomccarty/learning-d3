@@ -1,0 +1,10 @@
+.symbols {
+    stroke: black;
+    stroke-width: 0.5px;
+}
+
+.grid-lines {
+    stroke-width: 0.2;
+    stroke: black;
+    stroke-opacity: 0.8;
+}

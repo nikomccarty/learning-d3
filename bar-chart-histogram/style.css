@@ -1,0 +1,11 @@
+/* .ygrid {
+    stroke: black;
+    opacity: 0.8;
+    stroke-width: 0.5px;
+} */
+
+.meanline {
+    stroke: rgb(185, 183, 36);
+    stroke-width: 2px;
+    stroke-dasharray: 1mm;
+}
