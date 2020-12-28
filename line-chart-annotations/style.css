@@ -1,0 +1,14 @@
+body {
+    margin: 0 auto;
+    display: table;
+    font-family: "Helvetica Neue", sans-serif;
+}
+.annotation path {
+  fill: none;
+  stroke: #3a403d;
+}
+.annotation text {
+  fill: #3a403d;
+  stroke: none;
+  font-size: 0.8em;
+}
